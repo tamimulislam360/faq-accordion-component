@@ -19,7 +19,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/blog-preview-card-lRjSIW9Fti)
+- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/faq-accordion-3AfvgQVwBN)
 - Live Site URL: [Live site url.](https://faq-accordion-component360.netlify.app/)
 - Source code: [Github Repo](https://github.com/tamimulislam360/faq-accordion-component)
 
